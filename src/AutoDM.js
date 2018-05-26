@@ -41,7 +41,7 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  return `Hi ${name}`; // your message
+  return `Hey ${name} thanks for being here - If you want to help out the @Trends_Project further click to tweet here - https://ctt.ac/vdc_Z Let me know if you have any questions. Thanks again.`; // your message
   // My message   return `Hi ${name} Thanks for being a part of my social media network. I'am the @PicsrushE founder,A new Online Image Editor completely with web technologies,I'm also a reactjs developer and medium blogger.\n Happy to discuss anytime 😊  \n Happy ${dayName} 😊😊 `;
 };
 
