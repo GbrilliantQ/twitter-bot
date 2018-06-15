@@ -41,7 +41,7 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  return `Hey! Thanks for being here. Check out our contest at https://gleam.io/QH5qm/airdrop-1000-trnd-token-prize-pool-for-10-winners-100ea  For a chance to win 100 TRND tokens! @Trends_Project and https://t.me/Trends_Project`; // your message
+  return `Hey! Thanks for being here. Join our Chat @ https://t.me/Trends_Project and I'll return the favor.`; // your message
   // My message   return `Hi ${name} Thanks for being a part of my social media network. I'am the @PicsrushE founder,A new Online Image Editor completely with web technologies,I'm also a reactjs developer and medium blogger.\n Happy to discuss anytime 😊  \n Happy ${dayName} 😊😊 `;
 };
 
