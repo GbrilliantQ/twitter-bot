@@ -41,9 +41,7 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  return `https://media.discordapp.net/attachments/430747758203371530/458753605491490855/gleam.png
-
-Hey, thanks being here. For a chance at 1000 TRND tokens.
+  return `Hey, thanks being here. For a chance at 1000 TRND tokens.
 Enter here - https://gleam.io/Yz4pI/airdrop-1000-trnd-token-prize-pool-for-10-winners.  
 
 Share for more chances here - https://ctt.ec/c8E5S  Thanks! `; // your message
