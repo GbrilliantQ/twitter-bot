@@ -41,12 +41,10 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  return `Trends Project PRE ICO IS LIVE.
-
-Get a 30% Bonus if you BUY IN PRE-ICO!
-In addition, those who commit 1 ETH or more get 2 MONTHS ACCESS to our Diamond Tier level. (A $2500 USD value)
-
-www.trendsproject.io`; // your message
+  return `I just wanted to say thank you for following me here, 
+if you followed me through TwitchTV, http://twitch.tv/gbrilliantq1  
+Awesome!  If not, please take a moment to follow my gaming stream
+at http://twitch.tv/gbrilliantq1`; // your message
   // My message   return `Hi ${name} Thanks for being a part of my social media network. I'am the @PicsrushE founder,A new Online Image Editor completely with web technologies,I'm also a reactjs developer and medium blogger.\n Happy to discuss anytime 😊  \n Happy ${dayName} 😊😊 `;
 };
 
